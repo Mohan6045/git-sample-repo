@@ -1,0 +1,2 @@
+--->  to make a folder acts a git --->git init
+---> to know status on that folder ---> git status

@@ -1,5 +1,11 @@
 --->  to make a folder acts a git --->git init
 ---> to know status on that folder ---> git status
 ---> add the doc /txt any file to the folder and add to git---> git add "filename"
----> commiting file to local repository  --->git commit -m "commitno1"
-----> to find differnce b/W last version and present version of the same file --->git diff "filename"
+---> commiting file to local repository  ---> git commit -m "commitno1"
+---> to find differnce b/W last version and present version of the same file ---> git diff "filename"
+---> to find log of the file ---> git log "file name"
+
+--> push the file to github remotely----
+
+          git remote add origin https://github.com/Mohan6045/git-sample-repo.git
+          git push -u origin master

@@ -2,3 +2,4 @@
 ---> to know status on that folder ---> git status
 ---> add the doc /txt any file to the folder and add to git---> git add "filename"
 ---> commiting file to local repository  --->git commit -m "commitno1"
+----> to find differnce b/W last version and present version of the same file --->git diff "filename"
